@@ -4,5 +4,8 @@
 
 * pilhas
 * filas
-* algoritmos de busca
+* vetores
+* listas
+* sequências
 * entre outros
+
